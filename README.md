@@ -1,15 +1,12 @@
 # Hi, I'm Siri Paidipalli
 
-I'm a Computer Science master's graduate focused on cybersecurity, with interests in security operations, network security, threat detection, and security engineering.
-
-I'm currently building hands-on cybersecurity projects to strengthen my practical skills and document what I learn along the way.
+I'm a Computer Science master's graduate focused on cybersecurity, with interests in security operations, network security, threat detection, and security engineering. I'm currently building hands-on cybersecurity projects to strengthen my practical skills and document what I learn along the way.
 
 ## Security Focus
 
 - Security Operations & Threat Detection
 - Network Security
 - Vulnerability Assessment
-- Incident Investigation
 - Application Security
 - AI for Cybersecurity
 
