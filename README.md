@@ -22,7 +22,7 @@ I'm a Computer Science master's graduate focused on cybersecurity, with interest
 
 ## Private Security Work
 
-**OpenEMR Application Security Assessment** — Performed application security testing and vulnerability remediation using OWASP ASVS, OWASP ZAP, CWE mapping, security logging analysis, and threat modeling.
+**OpenEMR Application Security Assessment** - Performed application security testing and vulnerability remediation using OWASP ASVS, OWASP ZAP, CWE mapping, security logging analysis, and threat modeling.
 
 🔒 **Private academic project — repository access available to recruiters and hiring managers upon request.**
 
